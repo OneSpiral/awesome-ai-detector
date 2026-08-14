@@ -17,6 +17,10 @@ guarantee results against every future model.
 
 ## Free detectors
 
+- **Mydentify AI Watermark and Claude Checker** – free, browser-only check for
+  observable Unicode artifacts and non-conclusive style clues; no signup.
+  Clearly states that it cannot verify Anthropic's private statistical mark or
+  prove authorship. https://mydentify.com/tools/ai-watermark-detector
 - **EssayDetector** – free per-sentence AI detector with per-sentence
   confidence; no signup. States the probabilistic caveat on the page.
   https://essaydetector.org
