@@ -30,6 +30,7 @@ guarantee results against every future model.
 - **ZeroGPT** – free tier with daily limits. https://zerogpt.com
 - **Winston AI** – free trial; paid plans. https://gowinston.ai
 - **Content at Scale AI Detector** – free with limits. https://contentatscale.ai
+- **Coda One** – Free AI detector with no signup; also offers a rewriter and grammar checker. https://www.codaone.ai/
 
 ## Paid / API detectors
 
